@@ -7,8 +7,14 @@
 
 ## Install
 
+npm
 ```
-$ npm install --save @fakerjs/paragraph
+npm install @fakerjs/paragraph --save-dev
+```
+
+yarn
+```
+yarn add @fakerjs/paragraph -D
 ```
 
 ## Usage
